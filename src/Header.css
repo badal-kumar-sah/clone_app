@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid blanchedalmond;
+}
+
+.header_logo {
+  object-fit: contain;
+  height: 2rem;
+}
+
+.header_icon {
+  padding: 1.2rem;
+}

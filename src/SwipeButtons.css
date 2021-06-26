@@ -1,0 +1,29 @@
+.swipeButtons {
+  position: fixed;
+  bottom: 1rem;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.swipeButtons__inner {
+  padding: 3vw;
+  background-color: white;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.3) !important;
+}
+
+.swipeButtons__reply {
+  color: gold !important;
+}
+.swipeButtons__close {
+  color: red !important;
+}
+.swipeButtons__star {
+  color: aqua !important;
+}
+.swipeButtons__favourite {
+  color: greenyellow !important;
+}
+.swipeButtons__flash {
+  color: purple !important;
+}
